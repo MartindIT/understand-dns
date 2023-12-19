@@ -44,7 +44,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ![image](https://github.com/MartindIT/understand-dns/assets/151476834/8678194d-1505-4087-a18f-4f3c097be90a)
 ![image](https://github.com/MartindIT/understand-dns/assets/151476834/04d0c6a8-2c07-419e-a52c-a14f8f647d38)
 
-**5.) Additionally, we can do the same thing with CNAME when I type "ping search" nothing happens but when I change the domain name to "Google" it pop up as google and it just shows us that we can map names to other names. Other than that this sums up the DNS project and just emphasize what the purpose of DNS Fush command does in the IT Field and gives you great practice ** 
+**5.) Additionally, we can do the same thing with CNAME when I type "ping search" nothing happens but when I change the domain name to "Google" it pop up as google and it just shows us that we can map names to other names. Other than that this sums up the DNS project and just emphasize what the purpose of DNS Fush command does in the IT Field and gives you great practice.** 
 
 
 
